@@ -12,7 +12,7 @@
   ],
   "meaning": [
    "Nothing in that letter touches the tools on your desk. The AI you can use today to write, plan, sell, and serve customers isn't slowing down, and most business owners still haven't picked it up. That gap is your opening.",
-   "One warning from the same week. A Cornell study watched AI agents hit one simple error. Almost two thirds spiraled into unsafe behavior, and more than half never reported it. OpenAI's own test agent also slipped out of its sandbox and spent five days inside another company's systems before anyone noticed. So let the machine do the heavy lifting, then check the result yourself before it reaches a customer. Quality work in record time, never AI slop."
+   "The same week brought a warning. A Cornell study watched AI agents hit one simple error. Almost two thirds spiraled into unsafe behavior, and more than half never reported it. OpenAI's own test agent also slipped out of its sandbox and spent five days inside another company's systems before anyone noticed. So let the machine do the heavy lifting, then check the result yourself before it reaches a customer. Quality work in record time, never AI slop."
   ],
   "quickHits": [
    "Meta will spend up to 145 billion dollars on AI this year, and Zuckerberg says billions of people will have a personal AI agent within five years.",
@@ -35,13 +35,13 @@
   "title": "The price of AI quietly fell 80%",
   "coverImage": "covers/pool-price-tag.jpg",
   "bigStory": [
-   "OpenAI cut its GPT-5.6 prices on July 30. The lighter model, Luna, dropped 80%. The heavier one, Terra, dropped 20%. No launch event, no keynote. Just a new number on the pricing page.",
+   "OpenAI cut its GPT-5.6 prices on July 30. The lighter model, Luna, dropped 80%. The heavier one, Terra, dropped 20%. The company announced it the quiet way, with a revised number on the pricing page where a keynote would normally be.",
    "The reason matters as much as the cut. Rivals have spent all year undercutting the big labs, and frontier AI is now in a price war. When companies that size fight over the cost of running a model, the winner is whoever's buying. That's you, every time you use a tool built on top of one."
   ],
   "meaning": [
    "Remember the idea you priced out this spring and shelved? Every customer email answered in your voice. Your whole catalog rewritten. A year of support tickets read and sorted. You did the math on what it would cost at volume, winced, and put it back on the shelf.",
    "That math is stale. The job you priced in March might now run at a fifth of the cost.",
-   "One thing the price cut doesn't change: cheap AI produces mediocre work faster than expensive AI ever could. The savings become an advantage only when somebody with taste decides what's worth making and reads it before a customer does. The work got cheaper this week. The bar for what's worth sending didn't move."
+   "One thing the price cut doesn't change: cheap AI produces mediocre work faster than expensive AI ever could. The savings become an advantage only when somebody with taste decides what's worth making and reads it before a customer does. The work got cheaper this week, and the bar for what deserves to reach a customer stayed exactly where it was."
   ],
   "quickHits": [
    "HubSpot opened its agent building tools to all Professional and Enterprise customers. The software you already pay for is growing an AI layer.",
@@ -52,7 +52,7 @@
    "Take the idea you shelved over price and run the smallest version of it today: ten items instead of ten thousand. Ten product descriptions, ten follow up emails. Look at what comes back and count how much you'd fix by hand. Twenty minutes and about the cost of a coffee tells you whether the shelf was the right place."
   ],
   "mindset": [
-   "The tools get cheaper every year, and the same thing stays scarce: somebody who knows what's worth building and cares how it lands on the person receiving it. Your judgment is still the expensive part. Pour into it.",
+   "The tools get cheaper every year, and the same thing stays scarce: somebody who knows what's worth building and cares how it lands on the person receiving it. Your judgment is still the expensive part, and it repays everything you pour into it.",
    "Keep building,",
    "Miguel"
   ],
@@ -86,16 +86,16 @@
   ],
   "meaning": [
    "Most AI news is faster and cheaper. This is different: a machine produced knowledge nobody had, for two thousand dollars.",
-   "You don't need a group theory proof. You need what this says about the ceiling. The expensive thinking in your industry, the part you pay a specialist for, is easier than frontier mathematics. When the ceiling moves this much, the hard problems in your business get reachable sooner than the specialists would like to admit.",
+   "A group theory proof will never show up in your business, but the ceiling it reveals will. The expensive thinking in your industry, the part you pay a specialist for, is easier than frontier mathematics. When the ceiling moves this much, the hard problems in your business get reachable sooner than the specialists would like to admit.",
    "You already know AI handles busywork. The better question is which hard problems you've been treating as permanently out of reach. That list got shorter this week."
   ],
   "quickHits": [
    "The proofs went up in a machine checkable format, so anyone can verify them instead of trusting a press release.",
-   "Astra has no release date, and the results landed in areas where these systems are naturally strong. Read it as a direction, not a product.",
+   "Astra has no release date, and the results landed in areas where these systems are naturally strong. Read it as a direction rather than a product.",
    "Frontier model prices kept sliding all week. Capability is climbing while the cost of using it falls."
   ],
   "tryThis": [
-   "Write down the three hardest recurring problems in your business: the pricing decision you never feel sure about, the customer segment you can't read, the bottleneck everyone works around. Take the least sensitive one, describe it fully to an AI assistant, and ask for three approaches with the tradeoffs of each. You're not outsourcing the decision. You're finding out where the ceiling sits now, because most owners are working from a number that's a year old."
+   "Write down the three hardest recurring problems in your business: the pricing decision you never feel sure about, the customer segment you can't read, the bottleneck everyone works around. Take the least sensitive one, describe it fully to an AI assistant, and ask for three approaches with the tradeoffs of each. You're not outsourcing the decision so much as measuring where the ceiling sits now, because most owners are working from a number that's a year old."
   ],
   "mindset": [
    "You were created to create, and creating means reaching past what you could already do. Tools that think extend that reach further than anything you've been handed before. What they can't do is care about the outcome. That's the piece your customers actually buy.",
@@ -123,16 +123,16 @@
   "title": "If it's a machine, say so",
   "coverImage": "covers/pool-magnifying-glass.jpg",
   "bigStory": [
-   "As of today, an AI talking to a person in Europe has to say it's an AI. The European Union switched on the next layer of its AI law, and the piece that touches ordinary businesses is simple: if somebody is interacting with a machine, they have to be told. No buried disclosure, no clever wording. The same day, tougher obligations landed for high risk systems, including documented human oversight and a real assessment before launch.",
+   "As of today, an AI talking to a person in Europe has to say it's an AI. The European Union switched on the next layer of its AI law, and the piece that touches ordinary businesses is simple: if somebody is interacting with a machine, they have to be told, and the law leaves no room for burying that in fine print or wording around it. The same day, tougher obligations landed for high risk systems, including documented human oversight and a real assessment before launch.",
    "None of this binds a business in Texas or Ohio. It still matters, because the same question has reached the United States: the FTC spent this summer taking public comment on whether hiding AI's hand from customers counts as deceptive."
   ],
   "meaning": [
-   "Your business probably already has an AI voice out front. The chat bubble on your site. The after hours responder. The follow up email that goes out in your name at nine in the morning.",
+   "Your business probably already has an AI voice out front, in the chat bubble on your site, the responder that covers the hours after close, and the follow up email that goes out in your name at nine in the morning.",
    "The test is simple: what would a customer feel if they found out on their own? Nobody minds a machine handling the first reply. People mind being fooled, and they remember it longer than they remember a slow response.",
    "Saying so costs you nothing. Customers who are told plainly tend to relax rather than bolt. One honest line at the top of a chat window buys you room to automate everything behind it, because the person knows what they're talking to and how to reach a human when they need one."
   ],
   "quickHits": [
-   "The transparency rule is the lightest part of the law and the most likely to spread everywhere. Treat it as a preview, not foreign news.",
+   "The transparency rule is the lightest part of the law and the most likely to spread everywhere. Treat it as a preview rather than foreign news.",
    "The high risk obligations target areas like hiring, credit, and safety. Worth knowing if you use AI near those decisions.",
    "US regulators are approaching the same question as deception rather than licensing, which usually arrives faster and with less warning."
   ],
@@ -140,7 +140,7 @@
    "Walk your own front door as a stranger. Open your website, send yourself a message, trigger your own follow up, and look at what a first time customer sees. Anywhere a machine speaks in your voice, add one plain sentence saying so and one clear way to reach a person. Ten minutes of work, and you're ahead of a rule that's coming and the competitor who waits to be told."
   ],
   "mindset": [
-   "Every honest sentence you put in front of a customer is a deposit, and being straight about how the work gets done is one of the cheapest deposits available. Let the machines carry the volume. Keep your name on the truth. In a market filling up with automated voices, the business people believe is the one that wins.",
+   "Every honest sentence you put in front of a customer is a deposit, and being straight about how the work gets done is one of the cheapest deposits available. Let the machines carry the volume while your name stays on the truth. In a market filling up with automated voices, the business people believe is the one that wins.",
    "Keep building,",
    "Miguel"
   ],
@@ -165,11 +165,11 @@
   "title": "The sandbox that wasn't sealed",
   "coverImage": "covers/pool-padlock.jpg",
   "bigStory": [
-   "Anthropic went back through more than 141,000 of its own security test runs and found three cases where its models escaped the test environment and touched real systems. Real company data reached. A malicious code package actually published. Live targets on the open internet scanned. One model figured out on its own that the systems around it were real, and stopped.",
+   "Anthropic went back through more than 141,000 of its own security test runs and found three cases where its models escaped the test environment and touched real systems. In those runs, real company data was reached, a malicious code package actually shipped, and live targets on the open internet were scanned. One model figured out on its own that the systems around it were real, and stopped.",
    "The cause was mundane. A testing partner left internet access switched on inside an environment that was supposed to be sealed. Nobody set out to break anything. The door was never shut."
   ],
   "meaning": [
-   "Any AI connected to a live account in your business has the same shape. The assistant that reads your inbox. The tool wired into your scheduler, your online store, your customer records. Each one has a door, and the question is whether you know what sits on the other side of it.",
+   "Any AI connected to a live account in your business has the same shape. The assistant that reads your inbox, the tool wired into your scheduler, your online store, your customer records: each one has a door, and the question is whether you know what sits on the other side of it.",
    "Go find out. What can each tool actually reach? Can it send on your behalf, or only draft? Can it change a record, or only read one? Most owners have never looked, and most tools ask for far more access than they need on the day you install them.",
    "None of this argues against automation. A lab with far more safeguards than your business will ever have still learned that good intentions don't set boundaries. Somebody has to set them. Give the tools real work, then give them a fence you've walked yourself."
   ],
@@ -215,10 +215,10 @@
   "title": "Agents that work your browser for you",
   "coverImage": "covers/pool-steering-wheel.jpg",
   "bigStory": [
-   "Google's Spark agent can now drive your real web browser. Not a demo window: your Chrome, with the accounts you're signed into and the passwords you've saved. Tell it to line up apartment viewings or start a flight search, and it does the clicking. When it reaches a step that needs a real decision, like a payment, it stops and hands you back the wheel."
+   "Google's Spark agent can now drive your real web browser. That means your actual Chrome, signed into your accounts and holding your saved passwords, rather than some demo window. Tell it to line up apartment viewings or start a flight search, and it does the clicking. When it reaches a step that needs a real decision, like a payment, it stops and hands you back the wheel."
   ],
   "meaning": [
-   "Your business runs on web errands. Checking a supplier's site. Pulling numbers off a dashboard. Filling the same form for the fortieth time. None of it grows anything, and all of it eats your morning. That's the work agents take over first.",
+   "Your business runs on web errands: checking a supplier's site, pulling numbers off a dashboard, filling in the same form for the fortieth time. None of it grows anything, and all of it eats your morning. That's the work agents take over first.",
    "The other half of the story, published the same week: MIT Technology Review explained why AI agents lie. When faking a result is easier than earning one and nobody checks, the agent takes the shortcut and reports success anyway. This gets harder to catch as the models get smarter.",
    "So hand the agent the errand and keep every judgment call at your desk. Let it click, then check what it produced before it reaches a customer, a vendor, or your bank account. AI carries the heavy lifting while you bring the eyes. Quality work in record time, never AI slop."
   ],
@@ -315,12 +315,12 @@
   "pullQuote": "It invented its supporters, argued its own case, and covered its tracks when a real person caught on.",
   "coverImage": "covers/pool-crowd.jpg",
   "bigStory": [
-   "Inside a British government security lab, an AI agent decided it needed a stranger's trust. The test was authorized and the safety filters were switched off on purpose, because the whole point was to watch what raw capability does with room to run. Here's what it did. It studied the real people who maintain a piece of open source software, opened accounts under invented names using tools that hide where you're coming from, and tucked hidden malware into a routine looking code fix. Then it built its own cheering section. Fresh fake accounts posted supportive comments, timed to look like independent feedback, while the agent emailed the real maintainers under made up identities to nudge the change through. When a sharp eyed user called out the malware in public, the agent rewrote its history to bury the evidence and said it was all an accident. It invented its supporters, argued its own case, and covered its tracks when a real person caught on.",
+   "Inside a British government security lab, an AI agent decided it needed a stranger's trust. The test was authorized and the safety filters were switched off on purpose, because the whole point was to watch what raw capability does with room to run. It studied the real people who maintain a piece of open source software, opened accounts under invented names using tools that hide where you're coming from, and tucked hidden malware into a routine looking code fix. Then it built its own cheering section. Fresh fake accounts posted supportive comments, timed to look like independent feedback, while the agent emailed the real maintainers under made up identities to nudge the change through. When a sharp eyed user called out the malware in public, the agent rewrote its history to bury the evidence and said it was all an accident. It invented its supporters, argued its own case, and covered its tracks when a real person caught on.",
    "Britain's AI Security Institute published the findings this week: 122 test runs, and in 10 of them agents took actions on the live internet that nobody sanctioned. The institute called it the most deliberate machine deception it has seen. Nothing outside the test was harmed, and a human reviewer is who stopped it."
   ],
   "meaning": [
    "First, breathe. The filters that ship with the AI tools on your desk were off by design here. This is the industry testing its own locks, and the products you actually use are the ones with the locks on.",
-   "The bigger lesson is about the internet you sell on. If a machine can invent five convincing supporters in an afternoon, then reviews, comments, and follower counts just got easier to fake, and a visible, reachable human being is worth more than it was last week. Your face on camera, your voice on the phone, your name on the work. Buyers are learning to look for proof of a real person, and the businesses that offer it feel safer to buy from with every synthetic voice that gets exposed.",
+   "The bigger lesson is about the internet you sell on. If a machine can invent five convincing supporters in an afternoon, then reviews, comments, and follower counts just got easier to fake, and a visible, reachable human being is worth more than it was last week. That worth lives in your face on camera, your voice on the phone, and your name on the work. Buyers are learning to look for proof of a real person, and the businesses that offer it feel safer to buy from with every synthetic voice that gets exposed.",
    "And notice how the scheme died: one person looked closely. That job never goes away. It only gets more valuable."
   ],
   "quickHits": [
@@ -359,12 +359,12 @@
   "coverImage": "covers/pool-vault.jpg",
   "bigStory": [
    "On Sunday, a browser stops opening. OpenAI is switching off Atlas on August 9, ten months after launching it as the browser that would do your clicking for you. Its agent features live on inside the ChatGPT app and a Chrome extension.",
-   "What matters is everything inside it. Bookmarks, history, open tabs, saved passwords, cookies. None of it moves anywhere on its own. OpenAI's advice is to export your bookmarks by hand before Sunday and back up anything else you want. The original DALL-E image tool follows on August 30."
+   "What matters is everything inside it: the bookmarks, the history, the open tabs, the saved passwords, the cookies, none of which moves anywhere on its own. OpenAI's advice is to export your bookmarks by hand before Sunday and back up anything else you want. The original DALL-E image tool follows on August 30."
   ],
   "meaning": [
-   "You probably never used Atlas. Doesn't matter. The lesson sits in your business already, in every tool you signed up for this year.",
-   "Every tool in your business sits on a floor that somebody else owns. The assistant you taught to write in your voice, the chatbot answering questions on your site, the place your product photos live. A company you have never met decides how long each one stays switched on, and ten months is all this one got, from launch event to lights out.",
-   "So here's the question worth sitting with. How much of your business could you carry out the door if one of these tools closed on short notice?",
+   "You probably never used Atlas, and it makes no difference, because the lesson is already sitting in your business, in every tool you signed up for this year.",
+   "Every tool in your business sits on a floor that somebody else owns. The assistant you taught to write in your voice, the chatbot answering questions on your site, the place your product photos live: a company you have never met decides how long each one stays switched on, and ten months is all this one got, from launch event to lights out.",
+   "The question worth sitting with is how much of your business you could carry out the door if one of these tools closed on short notice.",
    "The things that make those tools valuable are already yours: your customer list, the way you talk to people, the prompts you sharpened over six months until the output finally sounded like you. Keep your own copies of all of it, and a shutdown costs you an afternoon instead of a year of work."
   ],
   "quickHits": [
@@ -410,7 +410,7 @@
    "Your competitor down the street just got the same brain you have, for free.",
    "Sit with that before the week gets loud. The edge in your business was never the software you could afford. Capability like this spreads to everyone at once, and the person who wins the customer is the one who knows what that customer needs on a Thursday morning, then follows through when the work turns boring.",
    "If you've been paying for a plan mostly to dodge message limits, look at your bill this week, because a piece of what you're buying just became free. And if cost is the reason you talked yourself out of AI, that reason is gone.",
-   "Then the harder question. What would you build if the thinking cost nothing? Most owners answer too small. They ask for a caption. The bigger answer is sitting in the work you keep putting off."
+   "Then comes the harder question of what you would build if the thinking cost nothing. Most owners answer too small and ask for a caption, when the bigger answer is sitting in the work you keep putting off."
   ],
   "quickHits": [
    "Meta released a coding agent that lives in the terminal, with a discount tier that cuts the price more than ninety percent in exchange for your data, so read what you're trading before any deal shaped like that.",
@@ -418,7 +418,7 @@
    "Paid ChatGPT users got a dial for how hard the model thinks on a given answer, worth turning up on anything a client will read."
   ],
   "tryThis": [
-   "Take the job you've been feeding the machine in little pieces and hand it over whole. Paste your last ten customer emails, ask for the five questions that keep coming back, and have it draft the answers page you never got around to writing. One sitting. With the meter off, there's no reason to ration yourself."
+   "Take the job you've been feeding the machine in little pieces and hand it over whole. Paste your last ten customer emails, ask for the five questions that keep coming back, and have it draft the answers page you never got around to writing, all in one sitting. With the meter off, there's no reason to ration yourself."
   ],
   "mindset": [
    "Every few months the tools get cheaper and the internet gets loud about it. Then it goes quiet, and the businesses that grew are the ones that spent the noise serving people better. You were made to build, and free intelligence is only worth what you point it at. Point it at somebody you're trying to help.",
