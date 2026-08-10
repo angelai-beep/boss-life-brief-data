@@ -394,5 +394,50 @@
     "url": "https://marketing4ecommerce.net/en/openai-end-of-atlas/"
    }
   ]
+ },
+ {
+  "number": 10,
+  "dateLabel": "August 10, 2026",
+  "title": "The best AI just went free",
+  "pullQuote": "Your competitor down the street just got the same brain you have, for free.",
+  "coverImage": "covers/pool-key.jpg",
+  "bigStory": [
+   "For most of this year the free version of ChatGPT rationed you. Ten messages or so in a five hour window, then a polite note asking you to wait or upgrade. Plenty of business owners hit that wall on a Tuesday afternoon with a proposal half written.",
+   "The wall comes down this week. OpenAI is making its newer model the default on free accounts and lifting the cap on text chats entirely. Images, files, and voice keep their own limits, but the back and forth typing, where most of the actual work happens, runs without a meter now.",
+   "Something bigger landed beside it. Alibaba is publishing the weights for its largest model, the first time anyone has handed out a top tier system of that size for the public to download and run. A machine that trades punches with the most expensive tools on the market, free to keep on your own hardware."
+  ],
+  "meaning": [
+   "Your competitor down the street just got the same brain you have, for free.",
+   "Sit with that before the week gets loud. The edge in your business was never the software you could afford. Capability like this spreads to everyone at once, and the person who wins the customer is the one who knows what that customer needs on a Thursday morning, then follows through when the work turns boring.",
+   "If you've been paying for a plan mostly to dodge message limits, look at your bill this week, because a piece of what you're buying just became free. And if cost is the reason you talked yourself out of AI, that reason is gone.",
+   "Then the harder question. What would you build if the thinking cost nothing? Most owners answer too small. They ask for a caption. The bigger answer is sitting in the work you keep putting off."
+  ],
+  "quickHits": [
+   "Meta released a coding agent that lives in the terminal, with a discount tier that cuts the price more than ninety percent in exchange for your data, so read what you're trading before any deal shaped like that.",
+   "Google reshuffled the leadership of its AI division, a fair reminder that the roadmap behind any tool you lean on can change with a single memo.",
+   "Paid ChatGPT users got a dial for how hard the model thinks on a given answer, worth turning up on anything a client will read."
+  ],
+  "tryThis": [
+   "Take the job you've been feeding the machine in little pieces and hand it over whole. Paste your last ten customer emails, ask for the five questions that keep coming back, and have it draft the answers page you never got around to writing. One sitting. With the meter off, there's no reason to ration yourself."
+  ],
+  "mindset": [
+   "Every few months the tools get cheaper and the internet gets loud about it. Then it goes quiet, and the businesses that grew are the ones that spent the noise serving people better. You were made to build, and free intelligence is only worth what you point it at. Point it at somebody you're trying to help.",
+   "Keep building,",
+   "Miguel"
+  ],
+  "sources": [
+   {
+    "label": "TechCrunch on unlimited free chats",
+    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
+   },
+   {
+    "label": "Yahoo Finance on the Qwen open weights drop",
+    "url": "https://finance.yahoo.com/technology/ai/articles/qwen3-8-max-capability-war-162320284.html"
+   },
+   {
+    "label": "TechCrunch on Meta's coding agent",
+    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+   }
+  ]
  }
 ]
