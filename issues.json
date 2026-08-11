@@ -439,5 +439,48 @@
     "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
    }
   ]
+ },
+ {
+  "number": 11,
+  "dateLabel": "August 11, 2026",
+  "title": "The company that offered to pay the town's power bill",
+  "pullQuote": "Whatever you've been meaning to automate, build it while the compute is being sold to you for less than it costs to make.",
+  "coverImage": "covers/pool-city-skyline.jpg",
+  "bigStory": [
+   "Somewhere in America there's a field with survey stakes in it that will soon hold a building full of machines that think. Anthropic went in this week with Macquarie Asset Management and Singapore's sovereign wealth fund to create Theseus Infrastructure, a venture whose entire job is to build data centers across the United States and lease them back to Anthropic for the long haul. The investors put up most of the money and own the sites, and Anthropic signs on as the anchor tenant for years to come.",
+   "The line worth reading twice sits in the part about electricity. Anthropic committed to covering the full cost of the grid upgrades its sites require, and to reimbursing the rise in ordinary household power bills that its own demand causes. That promise didn't come from nowhere. All summer, towns in red states and blue states alike have been filling council meetings to fight data centers over what they do to the price of power and the supply of water."
+  ],
+  "meaning": [
+   "Two things, and the first one is about your costs.",
+   "The intelligence you rent for a few dollars a month runs on steel, concrete, and an enormous amount of electricity that somebody is financing for the next twenty years. Today the companies building all of it are eating that cost to win you, and a window like that stays open only as long as the land grab lasts. Whatever you've been meaning to automate, build it while the compute is being sold to you for less than it costs to make.",
+   "The second is about how you grow. A company with more cash than most cities looked at a town's power bill and chose to pay the difference rather than spend the next decade in hearings. Your version of that is smaller and it still decides whether people root for you: the supplier you pay late when the month gets tight, the customer who waited three days while you were busy scaling. Cover what your growth costs the people closest to you, because it's cheaper than earning them back later."
+  ],
+  "quickHits": [
+   "Meta published Muse Glimmer, a 30 billion parameter open model that runs on a single ordinary computer, so a capable assistant living entirely on your own machine keeps getting more realistic.",
+   "A firm called Insygna launched a free report card that scores an AI agent across six dimensions, worth running on anything you plan to put in front of your buyers.",
+   "The chipmaker TSMC reported July revenue up 45% over last year, a plain signal that the buildout behind all of this has not slowed."
+  ],
+  "tryThis": [
+   "Open your bank statement and list every AI subscription on it. Next to each one, write the specific job it does in your business in a single sentence. Anything you can't finish that sentence for gets cancelled today, and the money goes to the tool you actually use, on the work you keep postponing."
+  ],
+  "mindset": [
+   "It's a strange thing to sit with, that a field of dirt and a new power line exist so you can ask a question at your kitchen table and get back an answer worth an hour of your day. Somebody poured concrete for that. Spend it on work that serves a real person, because you were made to build, and the machines only ever carry what you decide to point them at.",
+   "Keep building,",
+   "Miguel"
+  ],
+  "sources": [
+   {
+    "label": "Macquarie on the Theseus partnership",
+    "url": "https://www.macquarie.com/au/en/about/news/2026/anthropic-mam-gic-data-centre-infrastructure-partnership.html"
+   },
+   {
+    "label": "TNW on who pays to build Anthropic's data centres",
+    "url": "https://thenextweb.com/news/anthropic-macquarie-gic-theseus-infrastructure-data-centre-partnership"
+   },
+   {
+    "label": "Engadget on Meta's Muse Glimmer",
+    "url": "https://www.engadget.com/2233312/metas-open-source-muse-glimmer-model-can-run-on-a-single-computer/"
+   }
+  ]
  }
 ]
