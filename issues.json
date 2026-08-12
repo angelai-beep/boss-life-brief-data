@@ -501,7 +501,7 @@
   "quickHits": [
    "OpenAI released a security model called GPT-5.6-Cyber to vetted defenders only, and it turned up two unknown flaws in the engine behind Chrome, a fair nudge to stop postponing the update prompts on your own machines.",
    "ByteDance opened Seedance 2.5 to developers, thirty seconds of video in one unbroken shot with sound in ten languages, which puts a decent ad inside reach of anyone with a good idea and an afternoon.",
-   "OpenAI is running free virtual training and in person academies for owners through its small business program, worth an hour of your week if you've been learning all of this by guessing."
+   "Goldman Sachs found that 76% of small businesses now use AI in some form while only 14% have it genuinely built into daily operations, and closing that gap in your own shop is worth more than adding one more tool to the pile."
   ],
   "tryThis": [
    "Open your own booking link the way a stranger would, on your phone, at nine at night. Count the taps it takes to land on a real time slot. If you got stuck, or if the next three weeks show wide open when you know they aren't, fix that before you write another post. The machines are reading that page now, and they take it literally."
@@ -521,8 +521,8 @@
     "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
    },
    {
-    "label": "OpenAI on the small business program",
-    "url": "https://openai.com/index/introducing-chatgpt-small-business-program/"
+    "label": "Goldman Sachs on small business AI adoption",
+    "url": "https://www.goldmansachs.com/pressroom/press-releases/2026/small-businesses-embrace-ai-but-need-training-and-support-to-fully-harness-it"
    }
   ]
  }
