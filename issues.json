@@ -482,5 +482,48 @@
     "url": "https://www.engadget.com/2233312/metas-open-source-muse-glimmer-model-can-run-on-a-single-computer/"
    }
   ]
+ },
+ {
+  "number": 12,
+  "dateLabel": "August 12, 2026",
+  "title": "Your next customer books the table without leaving the chat",
+  "pullQuote": "Your actual open hours have to be sitting in a system a machine can read.",
+  "coverImage": "covers/pool-team-table.jpg",
+  "bigStory": [
+   "Someone opens ChatGPT on a Tuesday evening and types that they want Thai food near the water, around seven, somewhere quiet enough to actually talk. A few seconds later they're looking at real tables at real restaurants with the times still open, and two taps after that they have a reservation. They never opened Yelp, never went to OpenTable, never picked up the phone.",
+   "That's live now across the United States and Canada. OpenAI wired ChatGPT into Yelp Guest Manager, OpenTable, and Resy, so the assistant reads actual availability and books the table or puts you on the waitlist without ever leaving the conversation. Reviews and photos had already started showing up in chat back in July, and this week OpenAI added the part where the booking itself happens."
+  ],
+  "meaning": [
+   "The interesting thing here is everything that got skipped. The searching, the comparing, the visit to your website, all of it collapsed into one sentence typed into a chat box. If you sell time, and most service businesses do, whether you exist in that moment comes down to one boring detail. Your actual open hours have to be sitting in a system a machine can read.",
+   "For a restaurant that's the reservation platform. For a barber, a coach, a dentist, a photographer, it's whatever calendar takes your bookings, kept current instead of half updated while you're busy with the customer in front of you. A business whose availability lives in someone's head, or in a phone that rings out during the dinner rush, is invisible at the exact second the question gets asked.",
+   "There's a crack of daylight in it too. ChatGPT will hold your table, and it can't move it or cancel it. The moment anything gets complicated, a real person comes back to you, and that's still your ground."
+  ],
+  "quickHits": [
+   "OpenAI released a security model called GPT-5.6-Cyber to vetted defenders only, and it turned up two unknown flaws in the engine behind Chrome, a fair nudge to stop postponing the update prompts on your own machines.",
+   "ByteDance opened Seedance 2.5 to developers, thirty seconds of video in one unbroken shot with sound in ten languages, which puts a decent ad inside reach of anyone with a good idea and an afternoon.",
+   "OpenAI is running free virtual training and in person academies for owners through its small business program, worth an hour of your week if you've been learning all of this by guessing."
+  ],
+  "tryThis": [
+   "Open your own booking link the way a stranger would, on your phone, at nine at night. Count the taps it takes to land on a real time slot. If you got stuck, or if the next three weeks show wide open when you know they aren't, fix that before you write another post. The machines are reading that page now, and they take it literally."
+  ],
+  "mindset": [
+   "There's something worth sitting with in a machine that can hold your table and not much else. It finds you, it books you, and then it hands the person over. What happens when they walk through your door is the part your customer will still remember a year from now. Let the software work the door, and spend yourself on the welcome.",
+   "Keep building,",
+   "Miguel"
+  ],
+  "sources": [
+   {
+    "label": "9to5Mac on booking tables inside ChatGPT",
+    "url": "https://9to5mac.com/2026/08/10/chatgpt-users-can-now-book-tables-and-join-restaurant-waitlists-through-yelp/"
+   },
+   {
+    "label": "TechCrunch on OpenAI's new cyber model",
+    "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
+   },
+   {
+    "label": "OpenAI on the small business program",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program/"
+   }
+  ]
  }
 ]
