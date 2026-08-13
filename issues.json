@@ -525,5 +525,47 @@
     "url": "https://www.goldmansachs.com/pressroom/press-releases/2026/small-businesses-embrace-ai-but-need-training-and-support-to-fully-harness-it"
    }
   ]
+ },
+ {
+  "number": 13,
+  "dateLabel": "August 13, 2026",
+  "title": "The software you keep meaning to build",
+  "pullQuote": "For twenty years the answer was a developer, a proposal, six weeks, and a number that made you close the tab.",
+  "coverImage": "covers/pool-creator.jpg",
+  "bigStory": [
+   "A Swedish company that almost nobody outside tech had heard of two years ago just raised four hundred million dollars, and the thing it sells is a text box. You type what you want the software to do, in ordinary sentences, and it builds it. Lovable's valuation doubled this week to $13.3 billion, its revenue has roughly tripled since the winter, and more than sixty million projects have been made on it since it opened in late 2024.",
+   "The number that stopped me was a different one. The apps people built in that text box now pull around nine hundred million visits a month. Booking pages, client portals, quote calculators, little dashboards, small useful tools that somebody needed on a Tuesday and had running by Thursday."
+  ],
+  "meaning": [
+   "Every business owner I know carries a short list of software they've been meaning to get built: the intake form that half works, the spreadsheet three people fight over every Monday, the quote sheet you rebuild by hand for every customer because the real version was always a project for later. For twenty years the answer was a developer, a proposal, six weeks, and a number that made you close the tab. So the list stayed a list.",
+   "Your accounting system stays where it is, and your point of sale isn't going anywhere either. What just got cheap is the narrow tool that saves you an hour a day, and that one is now a conversation and a weekend. Start with whatever annoys you most and sits closest to money coming in."
+  ],
+  "quickHits": [
+   "Gemini crossed a billion users this week and Google handed its model teams to a new leader, which means the assistant already living in your inbox and your phone is about to get pushed a lot harder.",
+   "A compromise buried in a widely used piece of AI plumbing quietly exposed more than 2,500 companies, a fair reason to rotate the API keys sitting inside your own tools this week.",
+   "An AI newsroom is now publishing finished stories minutes after events happen, which tells you plainly where the market price of fast, generic content is heading."
+  ],
+  "tryThis": [
+   "Write down the one small tool you've wanted for a year, in three sentences, the way you'd explain it to a smart teenager. Who uses it, what they type in, what comes out. Then paste those three sentences into whichever AI builder you can reach in the next ten minutes and look at what comes back. The first version will be wrong in interesting ways, and being wrong costs you an afternoon now instead of six weeks and a deposit."
+  ],
+  "mindset": [
+   "We were made to build things. For most of my life that meant you either learned to code or you paid somebody who did, and a lot of honest ideas died in the gap between wanting a thing and knowing how to make it. That gap is closing fast, and what waits on the other side is the same work it always was: taste, judgment, and knowing what's actually worth building. The machine will hand you the hammer. Where to swing it is still yours.",
+   "Keep building,",
+   "Miguel"
+  ],
+  "sources": [
+   {
+    "label": "SiliconANGLE on Lovable's $13.3B round",
+    "url": "https://siliconangle.com/2026/08/12/vibe-coding-startup-lovable-doubles-valuation-13-3b-400m-raise/"
+   },
+   {
+    "label": "CNBC on Gemini and Google's new AI boss",
+    "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html"
+   },
+   {
+    "label": "CloudSEK on the AI supply chain breach",
+    "url": "https://www.cloudsek.com/blog/ai-supply-chain-breach-2500-companies-434000-cicd-pipelines"
+   }
+  ]
  }
 ]
