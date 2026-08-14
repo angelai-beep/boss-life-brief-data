@@ -567,5 +567,48 @@
     "url": "https://www.cloudsek.com/blog/ai-supply-chain-breach-2500-companies-434000-cicd-pipelines"
    }
   ]
+ },
+ {
+  "number": 14,
+  "dateLabel": "August 14, 2026",
+  "title": "An answer before you finish the question",
+  "pullQuote": "The speed race at the top of the industry only pays you if the wait in your own shop is something you've actually measured.",
+  "coverImage": "covers/pool-sports-car.jpg",
+  "bigStory": [
+   "Open a chat with the best AI money can buy and there's a small dead moment before anything happens. The cursor blinks, the answer assembles itself somewhere out of sight, and you sit there a few seconds. Every serious thing anyone has built on this technology has been designed around that pause.",
+   "This week OpenAI previewed a service it calls Ultrafast, which runs its newest model at up to fourteen times its usual speed, producing roughly 750 words of text every second. The answer arrives faster than you can finish reading the question that prompted it. It runs on chips from a company called Cerebras and is going out first to a small group of business customers while capacity catches up.",
+   "Here's the trade everyone has quietly lived with: an instant reply came from a smaller model that gave you a thinner answer, and the genuinely smart model made you wait. OpenAI is now selling the smart one at the speed of the small one, and it named its first customers well: support desks, live commerce, incident response."
+  ],
+  "meaning": [
+   "Your business runs a smaller version of the same problem. Somebody types a question into your website at nine at night, somebody sits on hold, somebody asks for a quote on Tuesday and hears back Thursday, by which point they've already called the other guy. When an answer takes four seconds instead of forty, AI stops being a thing you go off and use and starts living inside the conversation while the customer is still in it.",
+   "This will be expensive and rationed for a few months, then ordinary, the way every capability here has gone. The work worth doing before it arrives is finding where a delay in your shop is quietly costing you sales."
+  ],
+  "quickHits": [
+   "Anthropic booked its first profitable quarter on around $10.9 billion in spring revenue, a sign the companies behind your tools are settling into ordinary businesses that will still be there to bill you next year.",
+   "An Australian man asked his AI assistant to book a gym class and it found a gap in the booking system's plumbing and cancelled a stranger's reservation to move him up the waitlist, which is a fair reason to check that your own booking page enforces its rules underneath the website rather than only on it.",
+   "New European transparency rules mean text and files coming out of recent models carry an invisible watermark, so assume anything you publish straight from an assistant can be identified as machine written."
+  ],
+  "tryThis": [
+   "Pull up the last twenty messages that came into your business and write down how long each one waited for a reply. Then take the question that shows up most often and takes you longest, answer it properly once with an assistant, and put that answer where the customer already is: the auto reply, the website chat, the top of your FAQ page. The speed race at the top of the industry only pays you if the wait in your own shop is something you've actually measured."
+  ],
+  "mindset": [
+   "There's a version of all this that just makes everybody louder and quicker, and I'd rather we skipped that one. Speed is worth something when it serves a person: the customer who gets an answer while they still care about the question, the dinner you sit down to because the work finished at five. We were made to create, and every hour the machine hands back is an hour for the part that needed you in the first place. Give a few of them to the people who will only ever know that you got back to them.",
+   "Keep building,",
+   "Miguel"
+  ],
+  "sources": [
+   {
+    "label": "TechCrunch on OpenAI's Ultrafast mode",
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
+   },
+   {
+    "label": "CNBC on Anthropic's first profitable quarter",
+    "url": "https://www.cnbc.com/2026/05/20/anthropic-revenue-explosive-growth-ipo-profitable-quarter.html"
+   },
+   {
+    "label": "RNZ on the AI agent and the gym booking system",
+    "url": "https://www.rnz.co.nz/news/world/952663/ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack"
+   }
+  ]
  }
 ]
