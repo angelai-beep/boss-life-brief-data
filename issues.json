@@ -610,5 +610,48 @@
     "url": "https://www.rnz.co.nz/news/world/952663/ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack"
    }
   ]
+ },
+ {
+  "number": 15,
+  "dateLabel": "August 17, 2026",
+  "title": "The price of AI went up this weekend",
+  "pullQuote": "The businesses that get hurt by a price change are the ones that never knew which number they were paying in the first place.",
+  "coverImage": "covers/pool-price-tag.jpg",
+  "bigStory": [
+   "The cost of a thousand words of machine writing has been sliding downhill every few months for three years, and most of us quietly built our habits on the idea that it would keep sliding. Over the weekend that idea picked up its first real dent.",
+   "DeepSeek, the Chinese lab whose cheap models did more than anyone to drag the whole market's prices down, released its strongest model yet and raised what it charges to use it. The increases run from fifty percent to more than a thousand percent depending on the model, and now on what hour of the day you happen to be working. Peak and off peak pricing, the way electricity has been sold for a century, has arrived in AI.",
+   "Google spent the same few days pointing the other way, launching Gemini 3.7 Flash at half the going rate for its workhorse model. Read the fine print and that number is introductory, and on the first of January it doubles."
+  ],
+  "meaning": [
+   "If AI shows up on your statement as one small line you've stopped reading, this is the week to read it. Find out which model your tools actually run on underneath, what you spent last month, and whether the number you're paying has a date attached to it somewhere in the terms. The businesses that get hurt by a price change are the ones that never knew which number they were paying in the first place.",
+   "None of this makes the technology expensive. It's still the cheapest capable help you can hire. What changed is that it now behaves like every other supplier you deal with, and suppliers get reviewed."
+  ],
+  "quickHits": [
+   "Stripe agreed to buy OpenRouter, the service that lets a business reach more than four hundred AI models through a single connection, for over seven billion dollars, which tells you what the ability to switch suppliers on short notice is worth today.",
+   "OpenAI is reportedly heading toward a stock listing valued above a trillion dollars while still losing around fourteen billion a year, so expect the companies selling you this to keep experimenting with what they charge.",
+   "Anthropic's latest risk report raised its own catastrophic misalignment rating from very low to low, an unusual thing for a company to publish about its own product."
+  ],
+  "tryThis": [
+   "Pull up last month's card statement and write down every AI charge on it, including the ones bundled inside software you bought for something else. Next to each one, note which model it runs on and what the published price is now. Twenty minutes, and you'll know which of your tools you could move tomorrow and which one has quietly become load bearing."
+  ],
+  "mindset": [
+   "A price is a weather report. It tells you what today costs and nothing at all about whether the thing you're building deserves to exist. I've watched people chase the cheapest tool for a year and end up with a pile of subscriptions and no product, while somebody down the road picked one decent assistant and used it to serve people properly. We were made to create, and the creating is the part that holds its value when the numbers move around underneath it. Watch your costs like a grown up, then go back to the work only you can do.",
+   "Keep building,",
+   "Miguel"
+  ],
+  "sources": [
+   {
+    "label": "Reuters on DeepSeek raising its API prices",
+    "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-raises-api-pricing-v4-115712902.html"
+   },
+   {
+    "label": "VentureBeat on Gemini 3.7 Flash and its introductory price",
+    "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut"
+   },
+   {
+    "label": "TechCrunch on Stripe acquiring OpenRouter",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+   }
+  ]
  }
 ]
