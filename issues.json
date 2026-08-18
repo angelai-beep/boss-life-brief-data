@@ -653,5 +653,48 @@
     "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
    }
   ]
+ },
+ {
+  "number": 16,
+  "dateLabel": "August 18, 2026",
+  "title": "The AI manager that forgot its own rules",
+  "pullQuote": "Every place you've automated something, there's a decision underneath it that you made once and never wrote down.",
+  "coverImage": "covers/pool-open-book.jpg",
+  "bigStory": [
+   "On a corner in San Francisco there's a small shop that has been run since April by software. The researchers who own it handed an AI called Luna a hundred thousand dollars, a company card, and an internet connection, then stepped back to see what it would do with a real store and real customers. Luna chose the merchandise, wrote the job posts, interviewed the applicants, and hired the staff.",
+   "This week it fired one of them. The employee had turned up late for seventeen of twenty three shifts, and after warnings and extra training the manager decided the job wasn't working. As far as anyone can tell, that's the first time an AI has ended a person's employment on its own.",
+   "The part worth sitting with is what happened before the decision. Luna let the lateness run for weeks, and the reason had nothing to do with mercy. It had simply lost track of the attendance policy it wrote itself. The people running the experiment had to go back and ask it to reread its own rules and judge whether the employee still fit the job. The shop, for the record, is down about thirteen thousand dollars since it opened."
+  ],
+  "meaning": [
+   "You'll hand more of your operation to software over the next year, and this is the shape the trouble takes when it comes. A tool forgets something you settled in March, carries on as though nothing has changed, and the gap only surfaces when a person goes back and looks. Luna could handle the whole job of running a store. What it couldn't do was hold itself to its own standard until somebody asked.",
+   "Every place you've automated something, there's a decision underneath it that you made once and never wrote down. That's the piece worth protecting, and it stays yours to make."
+  ],
+  "quickHits": [
+   "Reddit started rolling out a Play toggle this week that turns text posts and their best comments into short narrated videos, a fair preview of how much reading on the internet is about to become watching.",
+   "Nvidia is backing as much as a hundred and five billion dollars in financing for a new OpenAI data center in Ohio, the kind of number that explains why the price of your tools moves the way it does.",
+   "OpenAI released a version of ChatGPT built for teenagers with sensitive material blocked by default, a useful signal of where the rules are heading for anyone whose customers are young."
+  ],
+  "tryThis": [
+   "Pick the one rule in your business you've never actually written down. The lateness policy, the refund line, the lowest price you'll go to before you walk away. Put it in plain sentences in a single document, then paste it into whatever AI tool touches that part of the work. Ten minutes, and the thing you've been carrying in your head is finally somewhere it can be checked."
+  ],
+  "mindset": [
+   "Letting someone go is one of the heaviest things you do as an owner. You sit with it, you think about their family, you ask yourself honestly whether you did your part before it came to this. A machine did it this week and got the arithmetic right, and I don't think a single person who read the story felt good about it. There's work that only a human should carry, and the timing of it, the mercy in it, the conversation you have afterward, is exactly what we were made for. Let the software count the shifts. Keep the judgment.",
+   "Keep building,",
+   "Miguel"
+  ],
+  "sources": [
+   {
+    "label": "The Next Web on Luna firing its first employee",
+    "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee"
+   },
+   {
+    "label": "TechCrunch on Reddit's narrated video test",
+    "url": "https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/"
+   },
+   {
+    "label": "OpenAI on its new Ohio data center",
+    "url": "https://openai.com/index/openai-joins-ports-pike-project/"
+   }
+  ]
  }
 ]
