@@ -696,5 +696,48 @@
     "url": "https://openai.com/index/openai-joins-ports-pike-project/"
    }
   ]
+ },
+ {
+  "number": 17,
+  "dateLabel": "August 19, 2026",
+  "title": "Your customers are getting nervous about AI",
+  "pullQuote": "A returned phone call from someone who knows your name is worth more this year than it was last year.",
+  "coverImage": "covers/pool-balance-scale.jpg",
+  "bigStory": [
+   "There's a small hesitation that happens now when somebody reads a message from a business. The reply comes back fast and polished and perfectly reasonable, and somewhere behind their eyes they're wondering whether a person wrote it. That hesitation is newer than it feels, and it has spread further than most owners realize.",
+   "Pew Research published a survey yesterday, taken from about thirty five hundred American adults at the end of June, showing that 52 percent of the country is now more concerned than excited about AI turning up in daily life. In 2021 that number was 37. The share who feel mostly excited has fallen to nine percent.",
+   "The part worth sitting with is who moved. For the first time the youngest adults are the most uneasy group in the country. Fifty five percent of people under thirty said concerned, and 73 percent of them expect AI to mean fewer jobs over the next twenty years. Asked what it does to us, they said it makes connection and creativity harder to come by. The generation that grew up with these tools in their hands is the one telling researchers to go carefully."
+  ],
+  "meaning": [
+   "The assumption sitting in your customer's head has changed and nobody sent you a memo about it. When your reply lands in nine seconds at eleven at night, a good share of the people reading it wonder what wrote it, and some care enough to hold it against you.",
+   "The move here is to keep the leverage and get louder about the human part of your business. Put a real name at the bottom of the email. Call instead of texting when the thing is delicate. Let the machine draft and let a person decide what goes out. A returned phone call from someone who knows your name is worth more this year than it was last year, and the reason is sitting in that survey."
+  ],
+  "quickHits": [
+   "Alipay launched a platform in China this week where customers order from brands like KFC and Luckin Coffee by talking to an AI assistant instead of opening an app, an early look at how a lot of ordering is going to work.",
+   "Pennsylvania's governor signed an order Tuesday requiring AI data center developers to win local approval and cover their own power costs, the first serious sign of towns setting terms with the industry.",
+   "Google handed Agent2Agent, the standard that lets assistants built by different companies talk to each other, to a neutral foundation backed by more than 250 organizations, bringing closer the day your tools cooperate without you relaying between them."
+  ],
+  "tryThis": [
+   "Find the message your customers receive most often, the one AI wrote or helped you write, and read it out loud. Then put in one true human detail no machine could have known: their name the way they say it, the thing they mentioned on the phone last week, the reason they called you and not the other guy. Sign it with a person's name. Ten minutes, and the most repeated thing your business says finally sounds like your business."
+  ],
+  "mindset": [
+   "I read that survey twice, and the line that stayed with me was young people saying they expect connection and creativity to get harder from here. That's a heavy thing for anyone in their twenties to believe. We were made to create and made for each other, and no piece of software gets a vote on whether that holds. The owners I trust are using these machines to clear the tedious hours off the calendar and spending the hours they get back on the work that needs a human being in the room. Be one of those. Your customers can feel the difference, and this year they're paying closer attention than ever.",
+   "Keep building,",
+   "Miguel"
+  ],
+  "sources": [
+   {
+    "label": "Pew Research on young adults growing wary of AI",
+    "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/"
+   },
+   {
+    "label": "TNGlobal on Alipay's agentic commerce platform",
+    "url": "https://technode.global/2026/08/18/alipay-launches-agentic-commerce-platform-in-china-to-bring-ai-tools-to-merchants/"
+   },
+   {
+    "label": "Pennsylvania's executive order on data center development",
+    "url": "https://www.pa.gov/governor/newsroom/2026-press-releases/governor-shapiro-signs-executive-order-on-data-center-developmen"
+   }
+  ]
  }
 ]
