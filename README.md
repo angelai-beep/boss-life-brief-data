@@ -1,6 +1,6 @@
-# The Boss Life Brief · data feed
+# The Daily Boss · data feed
 
-Published data for The Boss Life Brief, the daily AI brief from Miguel Carrasco.
+Published data for The Daily Boss, the daily AI brief from Miguel Carrasco.
 
 - `issues.json` - every issue in the shape the website reads.
 - `feed.xml` - RSS feed of recent issues, used for the daily morning email.
