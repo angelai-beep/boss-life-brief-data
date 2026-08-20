@@ -739,5 +739,48 @@
     "url": "https://www.pa.gov/governor/newsroom/2026-press-releases/governor-shapiro-signs-executive-order-on-data-center-developmen"
    }
   ]
+ },
+ {
+  "number": 18,
+  "dateLabel": "August 20, 2026",
+  "title": "Meta's assistant moved onto your desktop",
+  "pullQuote": "Ten minutes of a real number beats another quarter of a confident guess.",
+  "coverImage": "covers/pool-figure-desk.jpg",
+  "bigStory": [
+   "Every owner I know has a version of the same habit. A post does well, or it flops, and the reason gets decided in four seconds of scrolling on the way to something else. Then that guess becomes the content plan for six months.",
+   "Meta shipped something Tuesday that goes straight at that habit. It's a Mac app for Meta AI, built for creators and small business owners, and what matters is what it plugs into: your Instagram, your Facebook, your ad performance numbers, and for pro accounts your Google Workspace documents. You can share your screen and ask it what it's looking at. The deeper features sit behind a new subscription called Meta One at $7.99 or $19.99 a month.",
+   "Meta describes it as an app for creators and small business, which is true and also not the whole shape of it. What it does in practice is put Meta's assistant between you and your own numbers, in exchange for a monthly fee and a deeper hookup into Meta's surfaces. Worth saying out loud before you install it."
+  ],
+  "meaning": [
+   "The useful half is genuinely useful. Most owners sit on years of performance data they have never once asked a direct question, because pulling it apart by hand costs an afternoon nobody has.",
+   "The other half is that more of your business starts running through one company's pipes, and that price goes up later rather than now. Use the free tier first, and keep your own copy of anything you would hate to lose access to."
+  ],
+  "quickHits": [
+   "OpenAI started testing Private Safety Processing on Tuesday, built to flag misuse across a customer's conversations without staff reading the content, with a technical paper promised for September.",
+   "CISA gave federal agencies until today to patch a critical flaw in Ray, the open source framework used to scale AI workloads, after confirming it's under active attack.",
+   "Anthropic's status page logged ten separate incidents between August 12 and 19, the status page itself among them, worth a glance before you lean on one tool for something time sensitive."
+  ],
+  "tryThis": [
+   "Pick the one number you've been guessing at, whether that's which post brought paying customers or which offer people opened and walked away from. Go get the real answer out of the data you already have, however clumsily, and write it down somewhere you'll see it. Ten minutes of a real number beats another quarter of a confident guess."
+  ],
+  "mindset": [
+   "These tools keep moving closer to the inside of your business, and it cuts both ways. Something that reads your numbers and answers in plain language saves hours you were never going to spend anyway. It also means one more part of what you built runs on somebody else's rails, and I can't tell you where that lands in three years. What I do know is that the machine can hand you the number and still have no idea what your customers deserve. That part stays yours.",
+   "Keep building,",
+   "Miguel"
+  ],
+  "sources": [
+   {
+    "label": "MacRumors on Meta's new Mac app",
+    "url": "https://www.macrumors.com/2026/08/19/meta-ai-mac-app/"
+   },
+   {
+    "label": "TechCrunch on OpenAI's customer privacy protections",
+    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/"
+   },
+   {
+    "label": "The Register on the actively exploited Ray flaw",
+    "url": "https://www.theregister.com/security/2026/08/18/cisa-gives-feds-3-days-to-fix-actively-exploited-ray-rce-bug/5289007"
+   }
+  ]
  }
 ]
